@@ -5,4 +5,6 @@
     subtitle: "A Blades In The Dark hack",
     doc)
 
+#include "sections/terms.typ"
+#pagebreak()
 #include "crews/boostergang.typ"
