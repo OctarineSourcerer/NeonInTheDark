@@ -23,10 +23,10 @@
         / Gunkin' Ste: A mechanic
     ],
     expertise: [
-        / Battle: defeat an enemy
-        / Extortion: threaten violence unless you're paid
-        / Smash & Grab: fast and violent armed robbery
-        / Sabotage: hurt an opponent by destroying something
+        / Battle: Defeat an enemy
+        / Extortion: Threaten violence unless you're paid
+        / Smash & Grab: Fast and violent armed robbery
+        / Sabotage: Hurt an opponent by destroying something
     ],
     upgrades: [
         / Boostergang Rigging: You get 2 free load worth of weapon or armor items. _For example, you could carry a sword & pistol, or wear armor for 0 load._
